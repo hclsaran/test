@@ -1,5 +1,0 @@
-com\hcl\controller\ProductController.class
-com\hcl\model\Product.class
-com\hcl\service\ProdutService.class
-com\hcl\SpringBootRestcrudApplication.class
-com\hcl\repo\ProductRepository.class
