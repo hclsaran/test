@@ -11,7 +11,7 @@ public class SaranController {
 	
 	@GetMapping("/1")
 	public String myBusinessLogic() {
-		return "<h1 style=color:blue>Welcome to my BusinessLogic11111111</h1>";
+		return "<h1 style=color:blue>Welcome to my BusinessLogic11111111 Updated</h1>";
 	}
 	
 	@GetMapping("/2")
